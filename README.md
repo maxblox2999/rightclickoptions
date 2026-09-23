@@ -26,3 +26,5 @@ If you have safety concerns, you are permitted to decompile the executable to au
 ---
 
 [![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/LunarLegacyStudios/rightclickoptions/releases/download/release/rightclickoptions.exe) ![Downloads](https://img.shields.io/github/downloads/LunarLegacyStudios/rightclickoptions/total?style=for-the-badge&color=green)
+
+### this project is no longer maintained
